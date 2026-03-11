@@ -1,5 +1,9 @@
 # 🤖 AI Talent Match Engine
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)(https://www.python.org)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)(https://ai-talent-match-engine-7ha8924udbfvjljmaeyxso.streamlit.app)
+![License](https://img.shields.io/badge/License-MIT-green)(LICENSE)
+
 
 ## 🌟 Overview
 

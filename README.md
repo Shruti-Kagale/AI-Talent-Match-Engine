@@ -1,6 +1,6 @@
 # 🤖 AI Talent Match Engine
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -79,7 +79,7 @@ Resumes (PDF) + Job Descriptions
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 AI-Talent-Match-Engine
@@ -96,6 +96,7 @@ AI-Talent-Match-Engine
 ├── clean_preprocess.py
 ├── extract_jds.py
 │
+├── ss1,ss2,ss3,ss4,ss5.ss6,ss7,ss8,ss9      #Screenshot of Dashboard
 ├── requirements.txt
 └── README.md
 ```
@@ -136,20 +137,24 @@ pip install -r requirements.txt
 streamlit run phase_4/app.py
 
 Upload all_resumes_ranked.xlsx and final_ranking.xlsx files from artifacts folder.
+```
 
 ---
 
-## Future Improvements
+## 🎯 Future Improvements
 
+```
 * Use NLP models for improved skill extraction
 * Add machine learning ranking algorithms
 * Expand job role datasets
 * Deploy with scalable backend services
+```
 
 ---
 
-## Author
+## 👩‍💻 Author
 
+```
 Shruti Kagale
 
 AI Talent Match Engine – A project focused on automating recruitment analytics using AI and data processing techniques.
